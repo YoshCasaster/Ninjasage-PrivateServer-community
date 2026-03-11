@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=🥷+Ninja+Saga+Private+Server;Full+Stack+Game+Server+Framework" alt="Typing SVG" />
-
 <br/>
 <img src="Ninjasage.png" alt="Ninja Saga" width="100%"/>
 <p>
