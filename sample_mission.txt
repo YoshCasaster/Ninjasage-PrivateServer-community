@@ -1,0 +1,25 @@
+{
+  "enemies": [
+    "ene_01"
+  ],
+  "bg": "mission_01",
+  "id": "msn_1",
+  "grade": "c",
+  "name": "Hardworking Ninja",
+  "level": 1,
+  "description": "Shin is the tutor of Academy. He probably can show you some moves if he sees potential.",
+  "premium": false,
+  "dialogs": [
+    {
+      "character": "Shin-Left",
+      "dialog": "You are [character_name], right? I am the tutor of this Academy, Shin. Defeat the training dummy and show me what you got."
+    }
+  ],
+  "rewards": {
+    "tp": 0,
+    "ss": 0,
+    "xp": 20,
+    "gold": 20
+  },
+  "visible": true
+}

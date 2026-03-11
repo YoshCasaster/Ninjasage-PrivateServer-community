@@ -1,0 +1,5 @@
+{
+  "weapon": null,
+  "material": null,
+  "item": null
+}

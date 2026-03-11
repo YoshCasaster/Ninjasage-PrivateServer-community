@@ -1,0 +1,33 @@
+Type of enemy.json root: <class 'list'>
+{
+  "id": "ene_01",
+  "level": 1,
+  "name": "Clone of Shin",
+  "hp": 50,
+  "cp": 50,
+  "dodge": 0,
+  "critical": 5,
+  "purify": 5,
+  "accuracy": 0,
+  "agility": 8,
+  "reactive": 5,
+  "combustion": 0,
+  "description": "None.",
+  "size_x": 0.55,
+  "size_y": 0.55,
+  "attacks": [
+    {
+      "cooldown": 0,
+      "animation": "attack_01",
+      "posType": "melee_1",
+      "dmg": 1,
+      "multi_hit": false,
+      "effects": [],
+      "anims": {
+        "hit": [
+          36
+        ]
+      }
+    }
+  ]
+}
